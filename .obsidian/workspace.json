@@ -8,26 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8503e029e4f3028d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "计算机原理/计算机软件.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "89b225b5ac753206",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "463acade85195ad3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "网页开发/场景.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机原理/计算机软件.md",
+                "file": "网页开发/场景.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机原理/计算机软件.md",
+                "file": "网页开发/场景.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,12 +135,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机原理/计算机软件.md"
+                "file": "网页开发/场景.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -157,11 +157,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8503e029e4f3028d",
+  "active": "463acade85195ad3",
   "lastOpenFiles": [
-    "计算机原理/计算机硬件.md",
-    "计算机原理/冯诺依曼计算机硬件结构.md",
+    "软件/Mockplus_Setup_v3.7.1.0.exe",
+    "markdown/markdown作业.md",
+    "网页开发/场景.md",
+    "markdown",
+    "网页开发",
     "计算机原理/计算机软件.md",
+    "计算机原理/计算机硬件.md",
+    "readme.md",
+    "计算机原理/冯诺依曼计算机硬件结构.md",
     "软件/Obsidian.1.1.16.exe",
     "计算机原理",
     "软件/ideaIC-2022.3.3.exe",
@@ -169,7 +175,6 @@
     "软件/VSCodeUserSetup-x64-1.76.1.exe",
     "软件/Postman-win64-Setup.exe",
     "软件/Git-2.40.0-rc2-64-bit.exe",
-    "软件/node-v18.15.0-x64.msi",
-    "软件/Microsoft.WindowsTerminal_Win10_1.16.10261.0_8wekyb3d8bbwe.msixbundle"
+    "软件/node-v18.15.0-x64.msi"
   ]
 }
